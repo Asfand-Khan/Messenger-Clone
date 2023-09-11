@@ -43,7 +43,7 @@ const MobileItem:React.FC<MobileItemProps> = ({
         active && 'bg-gray-100 text-black'
         )}
     >
-        <Icon clasName='h-6 w-6' />
+        <Icon className='h-6 w-6' />
     </Link>
   )
 }
